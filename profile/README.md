@@ -33,7 +33,7 @@ Here we share our **code, tools, and stuff**, and soon we’ll launch a website 
 ## 🚀 GitHub Stats
 
 <!-- Profile stats for the organization -->
-![Quited Devs Stats](https://github.com/Quited-devs/.github/blob/main/stats.png)
+[![Repo1 Stars](https://img.shields.io/github/stars/Quited-devs/Repo1?style=for-the-badge)](https://github.com/Quited-devs/Repo1)
 
 <!-- Repo-specific badges (replace Main-Repo with actual repo names) -->
 [![Main-Repo Stars](https://img.shields.io/github/stars/Quited-devs/Main-Repo?style=for-the-badge)](https://github.com/Quited-devs/Main-Repo)
