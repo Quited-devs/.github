@@ -1,7 +1,7 @@
 <!-- ==================== -->
 <!-- Banner Placeholder -->
 <!-- ==================== -->
-![Banner](https://ibb.co/SwQj4Gv8r)
+![Banner](https://i.ibb.co/jkVNPs42/Notification-remix.gif)
 
 # 👋 Welcome to Quited Devs
 
