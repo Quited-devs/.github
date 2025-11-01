@@ -32,13 +32,13 @@ Here we share our **code, tools, and stuff**, and soon we’ll launch a website 
 ---
 ## 🚀 GitHub Stats
 
-<!-- Profile stats for the organization -->
-[![Repo1 Stars](https://img.shields.io/github/stars/Quited-devs/Repo1?style=for-the-badge)](https://github.com/Quited-devs/Repo1)
+<!-- Top Languages used across org's main repos -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quited-devs&layout=compact&theme=radical)
 
-<!-- Repo-specific badges (replace Main-Repo with actual repo names) -->
-[![Main-Repo Stars](https://img.shields.io/github/stars/Quited-devs/Main-Repo?style=for-the-badge)](https://github.com/Quited-devs/Main-Repo)
-[![Main-Repo Forks](https://img.shields.io/github/forks/Quited-devs/Main-Repo?style=for-the-badge)](https://github.com/Quited-devs/Main-Repo)
-  
+<!-- Stars, Forks, Repos for a main repo -->
+![Project1 Stats](https://github-readme-stats.vercel.app/api/pin/?username=Quited-devs&repo=Project1&theme=radical)
+![Project2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=Quited-devs&repo=Project2&theme=radical)
+
 
 ---
 
