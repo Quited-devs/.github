@@ -3,10 +3,10 @@
 <!-- ==================== -->
 ![Banner](https://i.ibb.co/jkVNPs42/Notification-remix.gif)
 
-# 👋 Welcome to Quited Devs
+# ✌️ Welcome to Quited Devs 
 
 **Quited Devs** is a collaborative coding group of friends creating awesome projects.  
-Here we share our **code, tools, and modpacks**, and soon we’ll launch a website to show everything in style!  
+Here we share our **code, tools, and stuff**, and soon we’ll launch a website to show everything in style!  
 
 ---
 
