@@ -12,7 +12,7 @@ Here we share our **code, tools, and modpacks**, and soon we’ll launch a websi
 
 ## ⚡ Highlights
 
-- 💻 Projects in **Minecraft mods, web apps, and coding experiments**  
+- 💻 Projects in **mods, web apps, Tools, and coding experiments**  
 - 🌐 Website coming soon to showcase all projects  
 - 🛠️ Organized repositories for easy access and downloads  
 - 🤝 Community-driven development and collaboration  
@@ -27,15 +27,18 @@ Here we share our **code, tools, and modpacks**, and soon we’ll launch a websi
 | [Web Projects](https://github.com/Quited-devs) | Frontend & backend projects |
 | [Tools](https://github.com/Quited-devs) | Small utilities and scripts we create |
 
-> *You can add more repos as we grow!*  
+> *We can add more repos as we grow!*  
 
 ---
+## 🚀 GitHub Stats
 
-## 🚀 GitHub Variables / Stats
+<!-- Profile stats for the organization -->
+![Quited Devs Stats](https://github-readme-stats.vercel.app/api?username=Quited-devs&show_icons=true&theme=radical)
 
-![Quited Devs Repos](https://img.shields.io/github/repos/Quited-devs?style=for-the-badge)  
-![Total Stars](https://img.shields.io/github/stars/Quited-devs?style=for-the-badge)  
-![Total Forks](https://img.shields.io/github/forks/Quited-devs?style=for-the-badge)  
+<!-- Repo-specific badges (replace Main-Repo with actual repo names) -->
+[![Main-Repo Stars](https://img.shields.io/github/stars/Quited-devs/Main-Repo?style=for-the-badge)](https://github.com/Quited-devs/Main-Repo)
+[![Main-Repo Forks](https://img.shields.io/github/forks/Quited-devs/Main-Repo?style=for-the-badge)](https://github.com/Quited-devs/Main-Repo)
+  
 
 ---
 
