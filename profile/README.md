@@ -1,6 +1,4 @@
-# Quited Devs
-
-Welcome to **Quited Devs** — a collaborative group of developers working together on useful, clean and well-structured projects.  
+Welcome to **Quited Devs** a collaborative group of developers working together on useful, clean and well-structured projects.  
 We are not a company; we are simply a community of people who enjoy building, improving, and maintaining open-source and private tools.
 
 ---
@@ -15,13 +13,27 @@ We are not a company; we are simply a community of people who enjoy building, im
 ---
 
 ## 🧑‍💻 Team Members  
-(Add your team members here)
 
-- **Founder:** …  
-- **Members:**  
-  - …  
-  - …  
-  - …  
+### **Founder**
+- **fy2ne** — Founder of Quited Devs and the main coordinator of the organization.  
+  Manages projects, organizes the workflow, and keeps the team moving forward.
+
+### **Best Members**
+
+- **BIGBOSS** — Designer  
+  Creates clean and modern interfaces, handles UI concepts, visuals, and branding for projects.
+
+- **hamzahankrir** — BackEnd Developer  
+  Focused on server-side logic, APIs, databases, and optimizing performance behind the scenes.
+
+- **ILMaRkz** — FrontEnd Developer  
+  Works on user interfaces, interactive elements, UX improvements, and building responsive front-end layouts.
+
+- **RootCH2** — Hacker  
+  Handles security research, vulnerability testing, technical problem-solving, and system hardening.
+
+- **Zinebaiterrami1** — C++ Developer  
+  Specializes in systems programming, performance-focused tools, and low-level C++ development.
 
 ---
 
@@ -36,10 +48,10 @@ We are not a company; we are simply a community of people who enjoy building, im
 ---
 
 ## 🛠️ Tech We Use
-- **Languages:** JavaScript, HTML, CSS, Python  
+- **Languages:** JavaScript, TypeScript, Java, HTML, CSS, Python
 - **Tools:** GitHub, Git, CI/CD  
-- **Frameworks:** Node.js, Express, React (optional)  
-- **Project Types:** Web tools, APIs, utilities, internal tools  
+- **Frameworks:** Node.js, Express, React , Gradlle
+- **Project Types:** Web tools, APIs, utilities, CLI tools  
 
 ---
 
@@ -67,4 +79,4 @@ If you're interested, feel free to contact us or open an application in the repo
 
 ---
 
-### Thank you for visiting Quited Devs!
+### Thank you for visiting Quited Devs`s Github Page
