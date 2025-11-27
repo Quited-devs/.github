@@ -1,53 +1,70 @@
-<!-- ==================== -->
-<!-- Banner Placeholder -->
-<!-- ==================== -->
-![Banner](https://i.ibb.co/jkVNPs42/Notification-remix.gif)
+# Quited Devs
 
-# ✌️ Welcome to Quited Devs 
-
-**Quited Devs** is a collaborative coding group of friends creating awesome projects.  
-Here we share our **code, tools, and stuff**, and soon we’ll launch a website to show everything in style!  
+Welcome to **Quited Devs** — a collaborative group of developers working together on useful, clean and well-structured projects.  
+We are not a company; we are simply a community of people who enjoy building, improving, and maintaining open-source and private tools.
 
 ---
 
-## ⚡ Highlights
-
-- 💻 Projects in **mods, web apps, Tools, and coding experiments**  
-- 🌐 Website coming soon to showcase all projects  
-- 🛠️ Organized repositories for easy access and downloads  
-- 🤝 Community-driven development and collaboration  
-
----
-
-## 📂 Organization Repositories
-
-| Repo | Description |
-|------|-------------|
-| [Modpacks](https://github.com/Quited-devs) | All Minecraft modpacks and related projects |
-| [Web Projects](https://github.com/Quited-devs) | Frontend & backend projects |
-| [Tools](https://github.com/Quited-devs) | Small utilities and scripts we create |
-
-> *We can add more repos as we grow!*  
-
----
-## 🚀 GitHub Stats
-
-<!-- Top Languages used across org's main repos -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quited-devs&layout=compact&theme=radical)
-
-<!-- Stars, Forks, Repos for a main repo -->
-![Project1 Stats](https://github-readme-stats.vercel.app/api/pin/?username=Quited-devs&repo=Project1&theme=radical)
-![Project2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=Quited-devs&repo=Project2&theme=radical)
-
+## 📌 What We Do
+- Build and maintain projects together as a team  
+- Contribute to open-source tools  
+- Develop web services and small utilities  
+- Work on community-driven ideas  
+- Help members grow their skills through collaboration  
 
 ---
 
-## 💡 Connect with Us
+## 🧑‍💻 Team Members  
+(Add your team members here)
 
-- **Website:** Coming Soon 🌐  
-- **Discord:** [Invite Linl](https://discord.gg/BXp5EZfwgy)  
-- **Email:** quitedstudios@gmail.com 'dont laugh at the domaine :('
+- **Founder:** …  
+- **Members:**  
+  - …  
+  - …  
+  - …  
 
 ---
 
-> Made with ❤️ by the Quited Devs team
+## 📊 GitHub Organization Stats
+
+### Overview  
+<img src="https://github-readme-stats.vercel.app/api?username=Quited-devs&show_icons=true&hide_border=true" />
+
+### Top Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quited-devs&layout=compact&hide_border=true" />
+
+---
+
+## 🛠️ Tech We Use
+- **Languages:** JavaScript, HTML, CSS, Python  
+- **Tools:** GitHub, Git, CI/CD  
+- **Frameworks:** Node.js, Express, React (optional)  
+- **Project Types:** Web tools, APIs, utilities, internal tools  
+
+---
+
+## 📂 Our Structure
+We organize our work using:
+- `/projects` → Active and archived projects  
+- `/docs` → Documentation  
+- `/team` → Members and roles  
+- `/services` → Any tools or APIs we run  
+
+---
+
+## 🌐 Useful Links
+- **Main Website:** quited.dev  
+- **Docs:** docs.quited.dev  
+- **Blog:** blog.quited.dev  
+- **Support:** quited.dev/support  
+- **Contact:** quited.dev/contact  
+
+---
+
+## 🤝 Interested in Joining?
+We welcome active contributors who want to work on meaningful projects.  
+If you're interested, feel free to contact us or open an application in the repo.
+
+---
+
+### Thank you for visiting Quited Devs!
