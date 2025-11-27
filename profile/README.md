@@ -29,10 +29,10 @@ We are not a company; we are simply a community of people who enjoy building, im
 - **ILMaRkz** — FrontEnd Developer  
   Works on user interfaces, interactive elements, UX improvements, and building responsive front-end layouts.
 
-- **RootCH2** — Hacker  
+- **RootCH2** — Ethical Hacker  
   Handles security research, vulnerability testing, technical problem-solving, and system hardening.
 
-- **Zinebaiterrami1** — C++ Developer  
+- **Zinebaiterrami1** — C++ Developer $ Web Optimiser  
   Specializes in systems programming, performance-focused tools, and low-level C++ development.
 
 ---
